@@ -1,0 +1,16 @@
+Content\Audio\yes.xnb
+Content\Audio\yes.wma
+Content\Audio\Soundtrack.xnb
+Content\Audio\Soundtrack.wma
+Content\Audio\AlpacaThemeSong.xnb
+Content\Audio\AlpacaThemeSong.wma
+Content\Pictures\TitleScreen.xnb
+Content\Pictures\GameoverScreen.xnb
+Content\Pictures\Floor.xnb
+Content\Pictures\WizardSquare.xnb
+Content\Pictures\levelBackground.xnb
+Content\Pictures\Platform.xnb
+Content\Pictures\Alpaca.xnb
+Content\Pictures\tree.xnb
+Content\Fonts\Arial.xnb
+Content\Audio\JumpAlpaca.xnb

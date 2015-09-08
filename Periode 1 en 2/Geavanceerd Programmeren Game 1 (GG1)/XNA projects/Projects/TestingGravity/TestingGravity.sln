@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingGravity", "TestingGravity\TestingGravity\TestingGravity.csproj", "{55FF7524-E51F-4E56-9EA7-7367D739F504}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "TestingGravityContent", "TestingGravity\TestingGravityContent\TestingGravityContent.contentproj", "{EBDF641F-F40E-4FCB-80BA-05ECE3F4BA80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55FF7524-E51F-4E56-9EA7-7367D739F504}.Debug|x86.ActiveCfg = Debug|x86
+		{55FF7524-E51F-4E56-9EA7-7367D739F504}.Debug|x86.Build.0 = Debug|x86
+		{55FF7524-E51F-4E56-9EA7-7367D739F504}.Release|x86.ActiveCfg = Release|x86
+		{55FF7524-E51F-4E56-9EA7-7367D739F504}.Release|x86.Build.0 = Release|x86
+		{EBDF641F-F40E-4FCB-80BA-05ECE3F4BA80}.Debug|x86.ActiveCfg = Debug|x86
+		{EBDF641F-F40E-4FCB-80BA-05ECE3F4BA80}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

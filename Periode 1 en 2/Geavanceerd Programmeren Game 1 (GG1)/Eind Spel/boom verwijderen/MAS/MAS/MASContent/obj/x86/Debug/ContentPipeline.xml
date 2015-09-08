@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Audio\yes.mp3</Source>
+      <Name>Audio\yes</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Laptop Frans\Dropbox\Frans Tuinstra (AO2012)\Jaar 3\Geavanceerd Programmeren Game 1 (GG1)\Eind Spel\boom verwijderen\MAS\MAS\MAS\bin\x86\Debug\Content\Audio\yes.xnb</Output>
+      <Extra>C:\Users\Laptop Frans\Dropbox\Frans Tuinstra (AO2012)\Jaar 3\Geavanceerd Programmeren Game 1 (GG1)\Eind Spel\boom verwijderen\MAS\MAS\MAS\bin\x86\Debug\Content\Audio\yes.wma</Extra>
+      <Time>2014-09-16T11:05:34+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Soundtrack.mp3</Source>
+      <Name>Audio\Soundtrack</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Laptop Frans\Dropbox\Frans Tuinstra (AO2012)\Jaar 3\Geavanceerd Programmeren Game 1 (GG1)\Eind Spel\boom verwijderen\MAS\MAS\MAS\bin\x86\Debug\Content\Audio\Soundtrack.xnb</Output>
+      <Extra>C:\Users\Laptop Frans\Dropbox\Frans Tuinstra (AO2012)\Jaar 3\Geavanceerd Programmeren Game 1 (GG1)\Eind Spel\boom verwijderen\MAS\MAS\MAS\bin\x86\Debug\Content\Audio\Soundtrack.wma</Extra>
+      <Time>2014-09-12T09:08:36+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\AlpacaThemeSong.mp3</Source>
+      <Name>Audio\AlpacaThemeSong</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Laptop Frans\Dropbox\Frans Tuinstra (AO2012)\Jaar 3\Geavanceerd Programmeren Game 1 (GG1)\Eind Spel\boom verwijderen\MAS\MAS\MAS\bin\x86\Debug\Content\Audio\AlpacaThemeSong.xnb</Output>
+      <Extra>C:\Users\Laptop Frans\Dropbox\Frans Tuinstra (AO2012)\Jaar 3\Geavanceerd Programmeren Game 1 (GG1)\Eind Spel\boom verwijderen\MAS\MAS\MAS\bin\x86\Debug\Content\Audio\AlpacaThemeSong.wma</Extra>
+      <Time>2014-11-07T19:12:44+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Pictures\TitleScreen.png</Source>
+      <Name>Pictures\TitleScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Laptop Frans\Dropbox\Frans Tuinstra (AO2012)\Jaar 3\Geavanceerd Programmeren Game 1 (GG1)\Eind Spel\boom verwijderen\MAS\MAS\MAS\bin\x86\Debug\Content\Pictures\TitleScreen.xnb</Output>
+      <Time>2014-09-16T11:14:40+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Pictures\GameoverScreen.png</Source>
+      <Name>Pictures\GameoverScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Laptop Frans\Dropbox\Frans Tuinstra (AO2012)\Jaar 3\Geavanceerd Programmeren Game 1 (GG1)\Eind Spel\boom verwijderen\MAS\MAS\MAS\bin\x86\Debug\Content\Pictures\GameoverScreen.xnb</Output>
+      <Time>2014-09-16T11:20:50+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Pictures\Floor.png</Source>
+      <Name>Pictures\Floor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Laptop Frans\Dropbox\Frans Tuinstra (AO2012)\Jaar 3\Geavanceerd Programmeren Game 1 (GG1)\Eind Spel\boom verwijderen\MAS\MAS\MAS\bin\x86\Debug\Content\Pictures\Floor.xnb</Output>
+      <Time>2014-09-16T13:28:52+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Pictures\WizardSquare.png</Source>
+      <Name>Pictures\WizardSquare</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Laptop Frans\Dropbox\Frans Tuinstra (AO2012)\Jaar 3\Geavanceerd Programmeren Game 1 (GG1)\Eind Spel\boom verwijderen\MAS\MAS\MAS\bin\x86\Debug\Content\Pictures\WizardSquare.xnb</Output>
+      <Time>2014-09-16T13:29:55+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Pictures\levelBackground.png</Source>
+      <Name>Pictures\levelBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Laptop Frans\Dropbox\Frans Tuinstra (AO2012)\Jaar 3\Geavanceerd Programmeren Game 1 (GG1)\Eind Spel\boom verwijderen\MAS\MAS\MAS\bin\x86\Debug\Content\Pictures\levelBackground.xnb</Output>
+      <Time>2014-10-10T10:59:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Pictures\Platform.png</Source>
+      <Name>Pictures\Platform</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Laptop Frans\Dropbox\Frans Tuinstra (AO2012)\Jaar 3\Geavanceerd Programmeren Game 1 (GG1)\Eind Spel\boom verwijderen\MAS\MAS\MAS\bin\x86\Debug\Content\Pictures\Platform.xnb</Output>
+      <Time>2014-10-10T11:19:34+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Pictures\Alpaca.png</Source>
+      <Name>Pictures\Alpaca</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Laptop Frans\Dropbox\Frans Tuinstra (AO2012)\Jaar 3\Geavanceerd Programmeren Game 1 (GG1)\Eind Spel\boom verwijderen\MAS\MAS\MAS\bin\x86\Debug\Content\Pictures\Alpaca.xnb</Output>
+      <Time>2014-10-10T14:04:57+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Pictures\tree.png</Source>
+      <Name>Pictures\tree</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Laptop Frans\Dropbox\Frans Tuinstra (AO2012)\Jaar 3\Geavanceerd Programmeren Game 1 (GG1)\Eind Spel\boom verwijderen\MAS\MAS\MAS\bin\x86\Debug\Content\Pictures\tree.xnb</Output>
+      <Time>2014-10-28T15:16:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Arial.spritefont</Source>
+      <Name>Fonts\Arial</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Laptop Frans\Dropbox\Frans Tuinstra (AO2012)\Jaar 3\Geavanceerd Programmeren Game 1 (GG1)\Eind Spel\boom verwijderen\MAS\MAS\MAS\bin\x86\Debug\Content\Fonts\Arial.xnb</Output>
+      <Time>2014-09-16T12:39:58+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\JumpAlpaca.wav</Source>
+      <Name>Audio\JumpAlpaca</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Laptop Frans\Dropbox\Frans Tuinstra (AO2012)\Jaar 3\Geavanceerd Programmeren Game 1 (GG1)\Eind Spel\boom verwijderen\MAS\MAS\MAS\bin\x86\Debug\Content\Audio\JumpAlpaca.xnb</Output>
+      <Time>2014-10-24T14:12:34+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Laptop Frans\Dropbox\Frans Tuinstra (AO2012)\Jaar 3\Geavanceerd Programmeren Game 1 (GG1)\Eind Spel\boom verwijderen\MAS\MAS\MASContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Laptop Frans\Dropbox\Frans Tuinstra (AO2012)\Jaar 3\Geavanceerd Programmeren Game 1 (GG1)\Eind Spel\boom verwijderen\MAS\MAS\MAS\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Laptop Frans\Dropbox\Frans Tuinstra (AO2012)\Jaar 3\Geavanceerd Programmeren Game 1 (GG1)\Eind Spel\boom verwijderen\MAS\MAS\MASContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Laptop Frans\Dropbox\Frans Tuinstra (AO2012)\Jaar 3\Geavanceerd Programmeren Game 1 (GG1)\Eind Spel\boom verwijderen\MAS\MAS\MAS\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-08-20T10:54:24.6653156+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

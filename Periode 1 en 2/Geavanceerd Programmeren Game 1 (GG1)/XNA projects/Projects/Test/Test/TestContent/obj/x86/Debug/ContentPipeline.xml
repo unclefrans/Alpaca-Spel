@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Naamloos.jpg</Source>
+      <Name>Naamloos</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\laptop frans\documents\visual studio 2010\Projects\Test\Test\Test\bin\x86\Debug\Content\Naamloos.xnb</Output>
+      <Time>2014-08-20T11:47:03.3459818+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Naamloos1.jpg</Source>
+      <Name>Naamloos1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Laptop Frans\Documents\Visual Studio 2010\Projects\Test\Test\Test\bin\x86\Debug\Content\Naamloos1.xnb</Output>
+      <Time>2014-08-21T09:17:03.3752072+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Background01.png</Source>
+      <Name>Background01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Laptop Frans\Documents\Visual Studio 2010\Projects\Test\Test\Test\bin\x86\Debug\Content\Background01.xnb</Output>
+      <Time>2014-08-21T13:21:40.0453021+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Background02.png</Source>
+      <Name>Background02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Laptop Frans\Documents\Visual Studio 2010\Projects\Test\Test\Test\bin\x86\Debug\Content\Background02.xnb</Output>
+      <Time>2014-08-21T13:21:40.0553027+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Background03.png</Source>
+      <Name>Background03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Laptop Frans\Documents\Visual Studio 2010\Projects\Test\Test\Test\bin\x86\Debug\Content\Background03.xnb</Output>
+      <Time>2014-08-21T13:21:40.0633031+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Background04.png</Source>
+      <Name>Background04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Laptop Frans\Documents\Visual Studio 2010\Projects\Test\Test\Test\bin\x86\Debug\Content\Background04.xnb</Output>
+      <Time>2014-08-21T13:21:40.0703035+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Background05.png</Source>
+      <Name>Background05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Laptop Frans\Documents\Visual Studio 2010\Projects\Test\Test\Test\bin\x86\Debug\Content\Background05.xnb</Output>
+      <Time>2014-08-21T13:21:40.078304+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Laptop Frans\Documents\Visual Studio 2010\Projects\Test\Test\TestContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Laptop Frans\Documents\Visual Studio 2010\Projects\Test\Test\Test\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Laptop Frans\Documents\Visual Studio 2010\Projects\Test\Test\TestContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Laptop Frans\Documents\Visual Studio 2010\Projects\Test\Test\Test\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-08-20T10:54:24.6653156+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

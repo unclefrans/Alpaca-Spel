@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MAS", "MAS\MAS\MAS.csproj", "{EE9EA7AE-07A0-489E-A92B-2906CB4ECACB}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "MASContent", "MAS\MASContent\MASContent.contentproj", "{34EB4058-88F9-4F45-97FC-270B94F8EC94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE9EA7AE-07A0-489E-A92B-2906CB4ECACB}.Debug|x86.ActiveCfg = Debug|x86
+		{EE9EA7AE-07A0-489E-A92B-2906CB4ECACB}.Debug|x86.Build.0 = Debug|x86
+		{EE9EA7AE-07A0-489E-A92B-2906CB4ECACB}.Release|x86.ActiveCfg = Release|x86
+		{EE9EA7AE-07A0-489E-A92B-2906CB4ECACB}.Release|x86.Build.0 = Release|x86
+		{34EB4058-88F9-4F45-97FC-270B94F8EC94}.Debug|x86.ActiveCfg = Debug|x86
+		{34EB4058-88F9-4F45-97FC-270B94F8EC94}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
